@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv  # só se você não quiser subir CSVs grandes
+.DS_Store
+
