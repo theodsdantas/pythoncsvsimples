@@ -3,4 +3,4 @@ Este script em Python lê um arquivo CSV contendo informações de pessoas (nome
 - Média de idade e salário
 - Quartis e mediana
 - Desvio padrão
-- Valores mínimo e máxim
+- Valores mínimo e máximo
